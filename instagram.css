@@ -1,0 +1,13 @@
+.contact-links .instagram {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid var(--line);
+  color: var(--rose);
+}
+
+.footer-insta {
+  display: block;
+  margin-top: 14px;
+  color: #f0a9cc;
+  font-weight: 700;
+}
